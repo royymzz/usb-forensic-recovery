@@ -79,3 +79,7 @@ A more detailed description of the process is available in:
 ```text
 docs/methodology.md
 ```
+## Project Documentation
+
+- [Methodology](docs/methodology.md)
+- [Recovery Findings](docs/findings.md)
