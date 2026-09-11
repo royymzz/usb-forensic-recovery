@@ -1,0 +1,13 @@
+*.img
+*.dd
+*.raw
+*.E01
+Recovered_Files/
+recup_dir.*/
+recovered/
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+.DS_Store
